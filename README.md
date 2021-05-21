@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **fady13s/fady13s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: {instagram}(https://www.instagram.com/fady13_s/), {facebook}(https://www.facebook.com/therealslimfady/), {email}(fady.salama.18@ucl.ac.uk)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Serious vibes only :eyes::eyes:
--->
+
