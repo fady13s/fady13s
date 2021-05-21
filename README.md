@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... surprise me
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [instagram](https://www.instagram.com/fady13_s/), {facebook}(https://www.facebook.com/therealslimfady/), {email}(fady.salama.18@ucl.ac.uk)
+- 📫 How to reach me: [<img align="left" alt="fady | instagram" width="22px" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png" />][instagram]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Serious vibes only :eyes::eyes:
 
@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 [instagram]: https://www.instagram.com/fady13_s/
 [facebook]: https://www.facebook.com/therealslimfady/
+[email]: fady.salama.18@ucl.ac.uk
