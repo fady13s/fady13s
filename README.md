@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Serious vibes only :eyes::eyes:
 
+
+
+
+
+
+[instagram]: https://www.instagram.com/fady13_s/
+[facebook]: https://www.facebook.com/therealslimfady/
