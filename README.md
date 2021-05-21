@@ -10,7 +10,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... surprise me
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [<img align="center" alt="fady | email" width="22px" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png" />][email]
+- 📫 How to reach me: 
+- [<img align="center" alt="fady | instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][instagram]
+- [<img align="center" alt="fady | facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
+- [<img align="center" alt="fady | email" width="22px" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png" />][email]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Serious vibes only :eyes::eyes:
 
